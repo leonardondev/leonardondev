@@ -1,4 +1,30 @@
-### Hi there 👋
+### Hi there 👋, I'm Leonardo do Nascimento
+
+- I'm 27 years old.
+- Student of Biomedical Informatics.
+- Enthusiast of the best web & mobile development technologies.
+
+I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leonardofuba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Contact
+
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516993971392&text=Hello!)](https://api.whatsapp.com/send?phone=5516993971392)
+[![Gmail Badge](https://img.shields.io/badge/-leonardo3.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardo3.nascimento@gmail.com)](mailto:leonardo3.nascimento@gmail.com)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardodonascimento/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuba3822/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/leonardo3822)
+[![Discord Badge](https://img.shields.io/badge/-Leonardofuba%235675-blue?style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/channels/@me)
+
+
+
 
 <!--
 **LeonardoFuba/LeonardoFuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=leonardofuba&show_icons=true" alt="Leonardofuba"/> 
-</p>
