@@ -6,11 +6,9 @@
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
+<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=dracula&show_icons=true" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leonardofuba&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&theme=dracula&layout=compact" />
 
 ### Contact
 
