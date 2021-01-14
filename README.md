@@ -6,9 +6,9 @@
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
-<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=dracula&show_icons=true" />
+<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=vue-dark&show_icons=true" />
 
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&theme=dracula&layout=compact" />
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&theme=vue-dark&layout=compact" />
 
 ### Contact
 
