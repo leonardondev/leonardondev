@@ -1,14 +1,19 @@
 ### Hi there 👋, I'm Leonardo do Nascimento
 
+<a href="https://storyset.com/web">
+    <img align="right" width="300" height="300" alt="Illustration by Freepik Storyset" src="Programming-amico.svg" />
+</a>
+
 - I'm 28 years old.
 - Student of Biomedical Informatics.
 - Enthusiast of the best web & mobile development technologies.
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
-<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=vue-dark&show_icons=true" />
-
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&theme=vue-dark&layout=compact" />
+<p align="justify">
+<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=vue-dark&show_icons=true" />
+<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&theme=vue-dark&layout=compact" />
+</p>
 
 ### Skills :nerd_face:
 <p align="center">
