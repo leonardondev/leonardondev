@@ -8,7 +8,9 @@
 - Student of Biomedical Informatics.
 - Enthusiast of the best web & mobile development technologies.
 
-I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
+
+I'm currently working on client interface of ERP systems.
+In the free time, I usually work on personal projects to improve my knowledge and trying to learn new technologies.
 
 <p align="justify">
 <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=vue-dark&show_icons=true" />
