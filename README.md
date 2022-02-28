@@ -4,7 +4,7 @@
     <img align="right" width="300" height="300" alt="Illustration by Freepik Storyset" src="Programming-amico.svg" />
 </a>
 
-- I'm 28 years old.
+- I'm 29 years old.
 - Student of Biomedical Informatics.
 - Enthusiast of the best web & mobile development technologies.
 
@@ -24,10 +24,7 @@ In the free time, I usually work on personal projects to improve my knowledge an
     border-radius: 4px;
     padding-top: 16px;
 ">
-    <p align="center" >
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <p align="left" >
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,17 +34,26 @@ In the free time, I usually work on personal projects to improve my knowledge an
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+        <img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg">
+        <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-        <!--<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">-->
-        <!--<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">-->
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
     </p>
 </div>
 
