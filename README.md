@@ -4,7 +4,7 @@
     <img align="right" width="300" height="300" alt="Illustration by Freepik Storyset" src="Programming-amico.svg" />
 </a>
 
-- I'm 29 years old.
+- I'm 30 years old.
 - Student of Biomedical Informatics.
 - Enthusiast of the best web & mobile development technologies.
 
