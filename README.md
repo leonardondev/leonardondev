@@ -5,7 +5,7 @@
 </a>
 
 - I'm 30 years old.
-- Student of Biomedical Informatics.
+- Graduated in Biomedical Informatics.
 - Enthusiast of the best web & mobile development technologies.
 
 
@@ -36,8 +36,6 @@ In the free time, I usually work on personal projects to improve my knowledge an
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg">
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,6 +48,11 @@ In the free time, I usually work on personal projects to improve my knowledge an
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+        <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
