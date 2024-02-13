@@ -36,6 +36,8 @@ In the free time, I usually work on personal projects to improve my knowledge an
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_jest.svg">
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,12 +45,20 @@ In the free time, I usually work on personal projects to improve my knowledge an
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">       
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+        <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://pinia.vuejs.org/logo.svg">        
         <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
