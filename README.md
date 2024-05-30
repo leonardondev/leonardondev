@@ -82,7 +82,8 @@ In the free time, I usually work on personal projects to improve my knowledge an
 [![Discord Badge](https://img.shields.io/badge/-leonardondev%235675-blue?style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/channels/@me)
 
 
-[![@leonardofuba's Holopin board](https://holopin.me/leonardondev)](https://holopin.io/@leonardondev)
+<strong>Holopin board</strong>
+[![@leonardofuba's Holopin board](https://holopin.me/leonardofuba)](https://holopin.io/@leonardofuba)
 
 <!--
 **leonardondev/leonardondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
