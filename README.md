@@ -13,8 +13,8 @@ I'm currently working on client interface of ERP systems.
 In the free time, I usually work on personal projects to improve my knowledge and trying to learn new technologies.
 
 <p align="justify">
-<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=leonardofuba&theme=vue-dark&show_icons=true" />
-<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardofuba&theme=vue-dark&layout=compact" />
+<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=leonardondev&theme=vue-dark&show_icons=true" />
+<img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardondev&theme=vue-dark&layout=compact" />
 </p>
 
 ### Skills :nerd_face:
@@ -77,15 +77,15 @@ In the free time, I usually work on personal projects to improve my knowledge an
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardodonascimento/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuba3822/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/leonardondev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/leonardo3822)
-[![Discord Badge](https://img.shields.io/badge/-Leonardofuba%235675-blue?style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/channels/@me)
+[![Discord Badge](https://img.shields.io/badge/-leonardondev%235675-blue?style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/channels/@me)
 
 
-[![@leonardofuba's Holopin board](https://holopin.me/leonardofuba)](https://holopin.io/@leonardofuba)
+[![@leonardofuba's Holopin board](https://holopin.me/leonardondev)](https://holopin.io/@leonardondev)
 
 <!--
-**LeonardoFuba/LeonardoFuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leonardondev/leonardondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
