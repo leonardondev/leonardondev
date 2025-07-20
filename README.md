@@ -4,7 +4,7 @@
     <img align="right" width="300" height="300" alt="Illustration by Freepik Storyset" src="Programming-amico.svg" />
 </a>
 
-- I'm 31 years old.
+- I'm 32 years old.
 - Graduated in Biomedical Informatics.
 - Enthusiast of the best web & mobile development technologies.
 
@@ -58,13 +58,15 @@ In the free time, I usually work on personal projects to improve my knowledge an
         <img height="40" src="https://pinia.vuejs.org/logo.svg">        
         <br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <!--<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">-->
+        <!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
     </p>
@@ -78,7 +80,7 @@ In the free time, I usually work on personal projects to improve my knowledge an
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardodonascimento/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white)](https://www.instagram.com/leonardondev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/leonardo3822)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://www.x.com/leonardo3822)
 [![Discord Badge](https://img.shields.io/badge/-leonardondev%235675-blue?style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/channels/@me)
 
 
